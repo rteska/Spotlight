@@ -9,6 +9,8 @@ Use 'T' to throw
 
 Use 'R' to recall
 
+Hit 'Space' to jump
+
 Detailed instructions on how to play the game are in detail inside the prototype itself.
 
 
